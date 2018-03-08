@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Another Proxi Services</string>
+    <string name="app_slogan">help and get help</string>
+    <string name="title_activity_main"></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Fragment1Title">Your current status on the Proxi network is</string>
+    <string name="Fragment1Availability">Available</string>
+    <string name="Fragment1CurrentMission">Your current mission</string>
+    <string name="Fragment1TargetMission">mission</string>
+    <string name="Fragment1CurrentCredits">Your current credits</string>
+    <string name="Fragment1TargetCredits">123</string>
+
+    <string name="menuAccount">My infos</string>
+    <string name="menuCredits">My credits</string>
+    <string name="menuOffer">My offerings</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Dolly.</string>
+    <string name="lorem">Et olim licet otiosae sint tribus pacataeque centuriae et nulla suffragiorum certamina set Pompiliani redierit securitas temporis, per omnes tamen quotquot sunt partes terrarum, ut domina suscipitur et regina et ubique patrum reverenda cum auctoritate canities populique Romani nomen circumspectum et verecundum.
+</string>
+
+
+</resources>
