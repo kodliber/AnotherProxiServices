@@ -22,8 +22,10 @@
     <string name="share">Share</string>
     <string name="send">Send</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nothing">nothing</string>
+
     <string name="hello_blank_fragment">Hello Dolly.</string>
+    <string name="missionsTitle">These missions need you!</string>
     <string name="lorem">Et olim licet otiosae sint tribus pacataeque centuriae et nulla suffragiorum certamina set Pompiliani redierit securitas temporis, per omnes tamen quotquot sunt partes terrarum, ut domina suscipitur et regina et ubique patrum reverenda cum auctoritate canities populique Romani nomen circumspectum et verecundum.
 </string>
 

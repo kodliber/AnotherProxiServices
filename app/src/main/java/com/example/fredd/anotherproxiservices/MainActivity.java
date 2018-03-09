@@ -30,10 +30,7 @@ Fragment fragmentHome;
 Fragment fragCredits;
 Fragment fragMissions;
 
-	/**
-	 * là il nous faut un fragment
-	 *
-	 */
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -48,7 +45,6 @@ Fragment fragMissions;
 		Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 		setSupportActionBar(toolbar);
 
-//		fm.beginTransaction().replace(R.id.cible, fragmentHome).commit();
 		this.DisplayFragment(fragmentHome);
 
 		FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);

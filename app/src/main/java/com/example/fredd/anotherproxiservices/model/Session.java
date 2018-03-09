@@ -7,12 +7,12 @@ import android.view.View;
  * Created by Fredd on 08/03/2018.
  */
 
-public class global {
+public class Session {
 
 	Context context;
 //	context = this;
 
 	Boolean isUserConnected = true;
-	String DefaultUserLastname = "Doe";
-	String DefaultUserFirstname = "John";
+	String defaultUserLastname = "Doe";
+	String defaultUserFirstname = "John";
 }

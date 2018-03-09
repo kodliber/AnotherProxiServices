@@ -4,7 +4,7 @@ package com.example.fredd.anotherproxiservices.model;
  * Created by Fredd on 08/03/2018.
  */
 
-public class user {
+public class User {
 	public String Lastname;
 	public String Firstname;
 

@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * Peut-être faudrait il utiliser un singleton.
  */
 
-public class missions extends ArrayList<mission>{
+public class Missions extends ArrayList<Mission>{
 
 
 }

@@ -1,4 +1,7 @@
 package com.example.fredd.anotherproxiservices;
+/**
+ * Le splash screen
+ */
 
 import android.content.Context;
 import android.content.Intent;
